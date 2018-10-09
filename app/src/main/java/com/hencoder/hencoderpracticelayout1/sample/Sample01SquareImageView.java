@@ -11,7 +11,7 @@ public class Sample01SquareImageView extends android.support.v7.widget.AppCompat
         super(context);
     }
 
-    // todi
+    // tod0
     public Sample01SquareImageView(Context context, @Nullable AttributeSet attrs) {
         super(context, attrs);
     }
